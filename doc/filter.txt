@@ -1,0 +1,7 @@
+//port >0x40
+
+oran_fh_cus.cc_id >= 4
+
+///port 0x40
+
+(oran_fh_cus.cc_id == 4) && (oran_fh_cus.ru_port_id == 0)
